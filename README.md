@@ -19,17 +19,21 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class WebDeveloper:
 
     def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.name = 'Alex Wo'
+        self.role = 'Web Developer'
+        self.language_spoken = ['ru_RU', 'en_US']
+		self.code = ['Python', 'Django', 'Django RESTframework', 'Bootstrap', 'HTML', 'CSS']
+		self.databases = ['SQLite', 'PostgreSQL', 'Redis']
+		self.tools = ['PyCharm', 'RabbitMQ', 'Nginx', 'Docker', 'Postman', 'Git', 'Linux', 'Ubuntu Server']
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print('Спасибо, что заглянули! Надеюсь, некоторые из моих работ покажутся интересными.')
 
-me = SoftwareEngineer()
+
+me = WebDeveloper()
 me.say_hi()
 ```
 
