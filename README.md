@@ -24,7 +24,7 @@ class WebDeveloper:
 		self.code = ['Python', 'Django', 'Django RESTframework', 'Bootstrap', 'HTML', 'CSS']
 		self.databases = ['SQLite', 'PostgreSQL', 'Redis']
 		self.tools = ['PyCharm', 'RabbitMQ', 'Nginx', 'Docker', 'Postman', 'Git', 'Linux', 'Ubuntu Server']
-		self.architecture = ['Microservices', 'Event-Driven', 'Design system pattern']
+		self.architecture = ['Microservices', 'Monolithic', 'Event-Driven', 'Design system pattern']
 
     def say_hi(self):
         print('Спасибо, что заглянули! Надеюсь, некоторые из моих работ покажутся интересными.')
