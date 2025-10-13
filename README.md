@@ -56,11 +56,11 @@ me.say_hi()
 	</a>
 </p>
 
-<p align="center">
+<!--<p align="center">
 	<a href="https://github.com/Alex-Wo?tab=repositories">
     		<img src="https://github.com/Alex-Wo/Alex-Wo/blob/main/it-crowd-roy-and-moss.gif" width="458" height="237" />
 	</a>
-</p>
+</p>-->
 
 <!--![](https://github.com/Alex-Wo/Alex-Wo/blob/main/it-crowd-roy-and-moss.gif)-->
 
