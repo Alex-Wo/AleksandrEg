@@ -19,7 +19,6 @@
 
 
 class WebDeveloper:
-
     def __init__(self):
         self.name = 'Alex Wo'
         self.role = 'Web Developer'
