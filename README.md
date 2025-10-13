@@ -8,9 +8,13 @@
 
 <p align="center">Программирую на Python в течение 3 лет и активно развиваюсь в направлении Backend.</p>-->
 
+<h2 align="center">Обо мне:</h2>
+
 <p align="center">Веб-разработчик полного цикла: создаю надёжные backend-системы E-commerce, CRM и ERP, а также лаконичные интерфейсы на Bootstrap. В своих проектах особое внимание уделяю удобству поддержки, производительности и безопасности, ​​стараясь следовать передовым практикам.</p>
 
 <p align="center">Интересуюсь аспектами информационной безопасности, реверс-инжинирингом, сетевыми технологиями и механизмами защиты от киберугроз.</p>
+
+<h2 align="center">Стек:</h2>
 
 ```python
 #!/usr/bin/python
@@ -34,13 +38,13 @@ me = WebDeveloper()
 me.say_hi()
 ```
 
-<h2 align="center">Стек:</h2>
-
 <p align="center">
 	<a href="https://skillicons.dev">
     		<img src="https://skillicons.dev/icons?i=py,django,postgres,redis,rabbitmq,docker,nginx,postman,html,css,git,linux&theme=light" />
 	</a>
 </p>
+
+<h2 align="center">Активность:</h2>
 
 <p align="center">
 	<a href="https://komarev.com">
